@@ -1,3 +1,21 @@
+# Tetris: Built with React Hooks
+Playing around with React Hooks
+
+## To Test Out This App:
+- In your terminal, navigate to the folder where you would like the tetris-hooks repository to live
+- run the command: `git clone https://github.com/rkgallaway/tetris-hooks.git` 
+- run the command: `cd tetris-hooks`
+- run the command: `npm install`
+- run the command: `npm run start` to quickly test it out / play game in development mode
+
+### Disclaimer:  
+> React hooks is admittedly overkill for an app of this nature.  Vanilla Javascript is powerful and perfectly capable of handling this task.  React hooks has been used to prove it could be done, its not perfect, but some interesting demos have been achieved.
+
+### In the spirit of learning what other tasks could be added?
+- high scores
+- issues can be added in the repo [issues](https://github.com/rkgallaway/tetris-hooks/issues)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
