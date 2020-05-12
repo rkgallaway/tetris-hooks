@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tetris-hooks/static/css/main.e50336d1.chunk.css",
+    "main.js": "/tetris-hooks/static/js/main.44ab2f13.chunk.js",
+    "main.js.map": "/tetris-hooks/static/js/main.44ab2f13.chunk.js.map",
+    "runtime-main.js": "/tetris-hooks/static/js/runtime-main.81f12417.js",
+    "runtime-main.js.map": "/tetris-hooks/static/js/runtime-main.81f12417.js.map",
+    "static/js/2.42418041.chunk.js": "/tetris-hooks/static/js/2.42418041.chunk.js",
+    "static/js/2.42418041.chunk.js.map": "/tetris-hooks/static/js/2.42418041.chunk.js.map",
+    "index.html": "/tetris-hooks/index.html",
+    "precache-manifest.77c157d7a7d3cf9151232c9cd2e5372c.js": "/tetris-hooks/precache-manifest.77c157d7a7d3cf9151232c9cd2e5372c.js",
+    "service-worker.js": "/tetris-hooks/service-worker.js",
+    "static/css/main.e50336d1.chunk.css.map": "/tetris-hooks/static/css/main.e50336d1.chunk.css.map",
+    "static/js/2.42418041.chunk.js.LICENSE.txt": "/tetris-hooks/static/js/2.42418041.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/tetris-hooks/static/media/Pixel-LCD-7.e2897552.woff",
+    "static/media/bg.png": "/tetris-hooks/static/media/bg.2810fe6b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81f12417.js",
+    "static/js/2.42418041.chunk.js",
+    "static/css/main.e50336d1.chunk.css",
+    "static/js/main.44ab2f13.chunk.js"
+  ]
+}
