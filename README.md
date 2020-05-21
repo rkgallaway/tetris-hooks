@@ -8,11 +8,24 @@ Playing around with React Hooks
 - run the command: `npm install`
 - run the command: `npm run start` to quickly test it out / play game in development mode
 
+## How to Play
+Click the "Start Game" button to begin.  Use the following navigation keys for desired effect.  
+#### Navigation keys:
+- right arrow key to move right
+- left arrow key to move left
+- up arrow to rotate piece clockwise
+- down arrow to move downward (faster than the timer)
+- space bar to restart game while current game is still running
+
+
+
 ### Disclaimer:  
-> React hooks is admittedly overkill for an app of this nature.  Vanilla Javascript is powerful and perfectly capable of handling this task.  React hooks has been used to prove it could be done, its not perfect, but some interesting demos have been achieved.
+> React hooks is admittedly overkill for an app of this nature.  Vanilla Javascript is powerful and perfectly capable of handling this task.  React hooks has been used to prove it could be done, its not perfect, but some interesting demos / learning experiences have been achieved.
 
 ### In the spirit of learning what other tasks could be added?
 - high scores
+- music
+- fix the bugs
 - issues can be added in the repo [issues](https://github.com/rkgallaway/tetris-hooks/issues)
 
 
